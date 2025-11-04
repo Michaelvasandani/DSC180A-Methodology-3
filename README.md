@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Michael Sagar Vasandani
-mvasandani@ucsd.edu
+Pranav Singh and Michael Sagar Vasandani
